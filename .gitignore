@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/HesapMakinesi/HesapMakinesi/bin/Debug/net6.0-windows
+/HesapMakinesi/HesapMakinesi/bin
+/HesapMakinesi/HesapMakinesi/obj
+/HesapMakinesi/.vs
+/HesapMakinesi/.vs/HesapMakinesi
